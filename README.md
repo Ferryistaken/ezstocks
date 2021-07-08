@@ -1,8 +1,6 @@
-<div align=center>
-    ![GitHub top language](https://img.shields.io/github/languages/top/Ferryistaken/ezstocks)
-    ![GitHub](https://img.shields.io/github/license/Ferryistaken/ezstocks)
-    ![GitHub repo size](https://img.shields.io/github/repo-size/Ferryistaken/ezstocks)
-</div>
+![GitHub top language](https://img.shields.io/github/languages/top/Ferryistaken/ezstocks)
+![GitHub](https://img.shields.io/github/license/Ferryistaken/ezstocks)
+![GitHub repo size](https://img.shields.io/github/repo-size/Ferryistaken/ezstocks)
 
 
 
